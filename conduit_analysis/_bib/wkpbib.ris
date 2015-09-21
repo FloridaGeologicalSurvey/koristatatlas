@@ -1,0 +1,734 @@
+TY  - BOOK
+TI  - Hydrologic Frequency Analysis
+AU  - US Army Coprs of Engineers
+T2  - Hydrologic Engineering Methods for Water Resources Development
+CY  - Davis, CA
+DA  - 1975///
+PY  - 1975
+VL  - 3
+SP  - 176
+M1  - HEC-IHD-0300
+PB  - Institute for Water Resources
+ER  - 
+
+TY  - BOOK
+TI  - The Wakulla Springs Project
+A3  - Stone, William C.
+CY  - Huntsville, AL
+DA  - 1993///
+PY  - 1993
+SP  - 209
+PB  - The U.S. Deep Caving Team
+ER  - 
+
+TY  - BOOK
+TI  - Statistical Methods in Water Resources
+AU  - Helsel, D.R.
+AU  - Hirsch, R.M
+T2  - Statistical Methods in Water Resources
+DA  - 2002///
+PY  - 2002
+VL  - 4
+PB  - U.S. Geological Survey
+UR  - http://pubs.usgs.gov/twri/twri4a3/
+ER  - 
+
+TY  - BOOK
+TI  - The Handbook of Groundwater Engineering
+AU  - Delleur (ed), Jacques W.
+CY  - Boca Raton, LA
+DA  - 2007///
+PY  - 2007
+ET  - 2nd
+PB  - CRC Press
+SN  - 0-8493-4316-X
+ER  - 
+
+TY  - BOOK
+TI  - Hydrogeology and Groundwater Modeling
+AU  - Kresic, Neven
+CY  - Boca Raton, LA
+DA  - 2007///
+PY  - 2007
+ET  - 2nd
+SP  - 807
+PB  - CRC Press
+SN  - 0-8493-3348-2
+ER  - 
+
+TY  - BOOK
+TI  - Hydrogeological Conceptual Site Models: Data Analysis and Visualization
+AU  - Kresic, Neven
+AU  - Mikszewski, Alex
+CY  - Boca Raton, LA
+DA  - 2013///
+PY  - 2013
+SP  - 584
+PB  - CRC Press
+SN  - 978-1-4398-52222-4
+ER  - 
+
+TY  - BOOK
+TI  - Water in Karst: Management, Vulnerability, and Restoration
+AU  - Kresic, Neven
+CY  - New York
+DA  - 2013///
+PY  - 2013
+SP  - 706
+PB  - McGraw Hill
+SN  - 978-0-07-175333-3
+ER  - 
+
+TY  - GEN
+TI  - Exploration history of the WKP: A Capsule History of Cave Exploration in the Woodville Karst Plain and the WKPP
+AU  - Wisenbaker, Michael
+DA  - 2004///
+PY  - 2004
+PB  - Global Underwater Explorers
+UR  - https://www.globalunderwaterexplorers.org/content/exploration-history-wkp
+ER  - 
+
+TY  - JOUR
+TI  - Uranium and strontium isotopic geochemistry of karst waters, Leon Sinks Geological Area, Leon County, Florida
+AU  - Cao, Hongsheng
+AU  - Cowart, James B.
+AU  - Osmond, John K.
+T2  - Cave and Karst Science
+DA  - 1999///
+PY  - 1999
+VL  - 26
+IS  - 3
+SP  - 101
+EP  - 106
+ER  - 
+
+TY  - JOUR
+TI  - Radar hydrology: rainfall estimation
+AU  - Krajewski, W.F.
+AU  - Smith, J.A.
+T2  - Advances in Water Resources
+AB  - Radar observations of rainfall and their use in hydrologic research provide the focus for the paper. Radar-rainfall products are
+crucial for input to runoff and flood prediction models, validation of satellite remote sensing algorithms, and for statistical characterization
+of extreme rainfall frequency. In this context we discuss the issues of radar-rainfall product development, and the theoretical
+and practical requirements of validating radar-rainfall maps and new radar technologies. We discuss a framework for reflectivity
+based rainfall estimation, including estimation of uncertainty of radar-rainfall estimates. Validation of radar-rainfall products is a
+major challenge for broad utilization of these products in hydrologic applications. In the discussion of radar-rainfall prediction we
+focus on orographically induced extreme rainfall and flooding, discuss the issues of detection, statistical sample size, and scale effects.
+We conclude the paper with a set of recommendations for research priorities and experimental requirements to address them.
+DA  - 2002///
+PY  - 2002
+IS  - 25
+SP  - 1387
+EP  - 1394
+ER  - 
+
+TY  - JOUR
+TI  - The reflection of karst in the online mirror: A survey within scientific databases, 1960-2005
+AU  - Florea, Lee J.
+AU  - Fratesi, Beth
+AU  - Chavez, Todd A.
+T2  - Journal of Cave and Karst Studies
+AB  - The field of cave and karst science is served by a literature that is dispersed
+across far-flung topical journals, government publications, and club newsletters. As part of an inter-institutional project to globalize karst information (KIP, the Karst
+Information Portal), the USF Library undertook a structured battery of literature searches to map the domain of karst literature. The study used 4,300 individual searches and four literature databases: GeoRef, BIOSIS, Anthropology Plus, and GPO Access. The searches were based on a list of 632 terms including 321 karst-related keywords culled from three leading encyclopedias and glossaries of cave and karst science. An examination of yearly changes in publication rate indicates that for the last 45 years, the number of cave and karst publications has increased steadily, as has the number of journals in which they appear. In particular, the past ten years cover a period of rapid growth where karst-specific journals achieved peer-review status, and individual journals accepted more cave and karst papers for publication.
+DA  - 2005///
+PY  - 2005
+VL  - 69
+IS  - 1
+SP  - 229
+EP  - 236
+ER  - 
+
+TY  - JOUR
+TI  - Analysis and Discussion of Karst Conduit Waves.
+AU  - Loper, D.
+AU  - Chicken, E.
+T2  - Sinkholes and Engineering and Environmental Impacts of Karst
+AB  - Coastal karstic aquifers are affected by the tides, primarily due to pressure variations moving inland via tunnels or conduits. This behavior is clearly demonstrated by recent measurements made in the Woodville Karst Plain near Wakulla Springs. The decay rate, λ, and phase speed, V, of these waves are determined by statistical analysis of observations of water levels (made every 5 minutes) over a period of 144 days at two locations 16.6 km apart: one at the coast close to Spring Creek Springs and one at a borehole that connects to a karst tunnel close to Wakulla Spring. The calculated values are λ = 7.87 x 10–5 m–1 and V = 2.0 m s–1 for diurnal tidal modes and λ = 9.25 x 10–5 m–1 and V = 4.4 m s–1 for semi-diurnal tidal modes. These decay rates are equivalent to e-folding scales of 12.7 and 10.8 km, respectively. The decay rate is smaller and the phase speed is larger than predicted for a Darcian aquifer by factors of roughly 100, illustrating the profound influence that a conduit can have on aquifer dynamics.
+
+
+Read More: http://ascelibrary.org/doi/abs/10.1061/41003%28327%2943
+DA  - 2005///
+PY  - 2005
+DO  - 10.1061/41003(327)43
+SP  - 454
+EP  - 466
+UR  - http://dx.doi.org/10.1061/41003(327)43
+ER  - 
+
+TY  - JOUR
+TI  - Coastal Carbonate Aquifer Sensitivity to Tides
+AU  - Loper, D.E.
+AU  - Werner, C.L.
+AU  - Chicken, E.
+AU  - Davies, G.
+AU  - Kincaid, T.
+T2  - Eos, Transactions, American Geophysical Union
+DA  - 2005/09/27/
+PY  - 2005
+VL  - 86
+IS  - 39
+SP  - 353
+EP  - 357
+UR  - http://onlinelibrary.wiley.com/doi/10.1029/2005EO390001/abstract
+ER  - 
+
+TY  - JOUR
+TI  - Cave Levels, Marine Terraces, Paleoshorelines and the Water Table in Peninsular Florida
+AU  - Florea, Lee J.
+AU  - Vacher, H.L.
+T2  - Archives of Climate Change in Karst
+DA  - 2006///
+PY  - 2006
+SP  - 188
+EP  - 192
+UR  - http://digitalcommons.wku.edu/geog_fac_pub/5
+ER  - 
+
+TY  - JOUR
+TI  - Estimating Tidal Effects in Spring Discharge: A Multiscale Method Using Correlated Phenomenon
+AU  - Chicken, Eric
+AU  - Loper, David E.
+T2  - Water Resources Research
+AB  - A new method is proposed to remove accurately one signal’s influence from
+another. In particular, tidal influence on discharge from a natural artesian spring
+in the Woodville Karst Plain is quantified and is separated from that portion of the
+discharge due to other factors such as rainfall. Statistical correlation between the
+signals is used as a thresholding parameter in this new wavelet method. Variants of
+the estimator are developed for differing assumptions on the relations of the signals.
+This new method is shown to be effective at identifying and separating tidal signals,
+both regular (luni-solar forcing) and irregular (storms and hurricanes), from the
+discharge signal.
+DA  - 2007///
+PY  - 2007
+IS  - 43
+UR  - http://onlinelibrary.wiley.com/doi/10.1029/2006WR005117/full
+Y2  - 2015/06/26/
+ER  - 
+
+TY  - JOUR
+TI  - Submarine springs and coastal karst aquifers: A review
+AU  - Fleury, Perrine
+AU  - Bakalowicz, Michel
+AU  - de Marsily, Ghislain
+T2  - Journal of Hydrogeology
+DA  - 2007///
+PY  - 2007
+DO  - 10.1016/j.jhydrol.2007.03.009
+IS  - 339
+SP  - 79
+EP  - 92
+KW  - coastal aquifers
+KW  - karst
+KW  - Messinian salinity crisis
+KW  - salt-water intrusion
+KW  - submarine springs
+ER  - 
+
+TY  - JOUR
+TI  - Conduit Prevalence in the Woodville Karst Plain
+AU  - Chicken, Eric
+AU  - Chalise, Prabhakar
+T2  - Sinkholes and the Engineering and Environmental Impacts of Karst
+AB  - The presence of subterranean conduits within the Woodville Karst Plain is
+inferred from statistical analysis of several sets of microgravity measurements. In
+addition to determining the locations of such conduits, their approximate relative
+depths and sizes are estimated as well. An iterated non-linear least squares method
+is used to fit observed gravity data to a proposed theoretical model for the conduitgravity
+relation. The spatial density of the conduits is examined with respect to
+their relative cross-sectional areas.
+DA  - 2008///
+PY  - 2008
+DO  - 10.1061/41003(327)29
+SP  - 303
+EP  - 312
+UR  - http://stat.fsu.edu/techreports/M988.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Conduit Flow Paths and Conduit/Matrix Interactions Defined by Quantitative Groundwater Tracing in the Floridan Aquifer
+AU  - Kincaid, Todd R.
+AU  - Werner, Christopher L.
+T2  - Sinkholes and the Engineering and Environmental Impacts of Karst
+AB  - Groundwater tracing and cave mapping conducted in the Woodville Karst Plain of north Florida have revealed an extensive dendritic network of saturated conduits, more than 70 km in total length, that convey water to Wakulla Spring from the northeast, north, northwest, and south. In some places, the conduits are known to connect to swallets and in others are known to extend up-gradient into the aquifer matrix. Two sets of tracer tests were performed in 2005 and 2006 to map groundwater flow pathways between the Ames Sink group of swallets, which receive approximately 60% of the City of Tallahassee’s storm water runoff, and the City’s wastewater spray field, and characterize groundwater velocities along those pathways. The results of these tests revealed that water flows rapidly from both locations to Wakulla Spring. Groundwater velocities through the swimmable portion of the conduit network range from ~1500 to >2000 m/day and velocities through the smaller conduit pathways range from 250 to >800 m/day.
+
+We have also compared the shape and timing of the tracer concentration recovery curves to groundwater levels and swallet stage during the tested periods. The results indicate that the aquifer is composed of conduits with varying capacities to convey water and that those capacities establish controls on local hydraulic gradients in the aquifer. More broadly, the results of these tracer studies indicate that tracer recovery curves can reveal significant and potentially quantifiable insights about the hydraulic dynamics of the aquifer when interpreted relative to continuously measured hydraulic data such as heads and flows within the region being tested.
+DA  - 2008///
+PY  - 2008
+DO  - 10.1061/41003(327)28
+SP  - 288
+EP  - 302
+UR  - http://dx.doi.org/10.1061/41003(327)28
+ER  - 
+
+TY  - JOUR
+TI  - A natural tracer investigation of the hydrological regime of Spring Creek Springs, the largest submarine spring system in Florida
+AU  - Dimova, Natasha T.
+AU  - Burnett, William C.
+AU  - Speer, Kevin
+T2  - Continental Shelf Research
+DA  - 2011///
+PY  - 2011
+DO  - 10.1016/j.csr.2011.01.010
+VL  - 31
+SP  - 731
+EP  - 738
+UR  - http://dx.doi.org/10.1016/j.csr.2011.01.010
+ER  - 
+
+TY  - JOUR
+TI  - Research in karst: A model for future directions in hydrologic science?
+AU  - Covington, Matthew D.
+AU  - Doctor, Daniel H.
+AU  - King, Jeffrey N.
+AU  - Wicks, Carol M.
+T2  - AGU Hydrology Section Newsletter
+DA  - 2011/07//
+PY  - 2011
+SP  - 18
+EP  - 22
+N1  - <p>Despite longheld views to the contrary, a theoretical analysis has suggested that spring hydrographs carry little <br />information about conduit system geometry<br />(Covington et al., 2009). Other signals, such as<br />temperature and geochemistry provide more<br />promise. A study by Luhmann et al. (2011) of<br />thermal patterns at 25 springs in Minnesota<br />suggested that temperature signals carry significant<br />information about permeability structure and<br />recharge mechanisms.</p>
+N1  - <p>Despite longheld views to the contrary, a theoretical analysis has suggested that spring hydrographs carry little <br />information about conduit system geometry<br />(Covington et al., 2009). Other signals, such as<br />temperature and geochemistry provide more<br />promise. A study by Luhmann et al. (2011) of<br />thermal patterns at 25 springs in Minnesota<br />suggested that temperature signals carry significant<br />information about permeability structure and<br />recharge mechanisms.</p>
+N1  - <p>Hydrological boundary conditions, geologic<br />stratigraphy, geomorphological forces, and<br />landscape history control karst aquifer structure.<br />Knowledge of the processes of cave formation are<br />crucial to conceptualizing and quantifying karst<br />aquifer structure, and for informing management<br />strategies for preserving water quality. Advances<br />continue to be made in the quantification of<br />geomorphological processes in karst, and often<br />systems display signatures from multiple<br />hydrological or climatic regimes. For example,<br />Gulley et al. (2011) show that episodic flow<br />reversals of Suwannee River springs force conduit<br />growth in the Floridan aquifer, thus highlighting the<br />long-term history of surface water-groundwater<br />interaction in this important karst aquifer.</p>
+N1  - <p>Hydrological boundary conditions, geologic<br />stratigraphy, geomorphological forces, and<br />landscape history control karst aquifer structure.<br />Knowledge of the processes of cave formation are<br />crucial to conceptualizing and quantifying karst<br />aquifer structure, and for informing management<br />strategies for preserving water quality. Advances<br />continue to be made in the quantification of<br />geomorphological processes in karst, and often<br />systems display signatures from multiple<br />hydrological or climatic regimes. For example,<br />Gulley et al. (2011) show that episodic flow<br />reversals of Suwannee River springs force conduit<br />growth in the Floridan aquifer, thus highlighting the<br />long-term history of surface water-groundwater<br />interaction in this important karst aquifer.</p>
+N1  - <p>Insights in karst can be applied elsewhere</p>
+<p>&nbsp;</p>
+<p>Heterogeneities in subsurface flow and<br />hydrogeologic processes that generate flow<br />networks are central to conceptual frameworks in<br />modern hydrology, and are exemplified by karst<br />systems. Insights gained through the approaches<br />used to study karst aquifers can be applied to a wide<br />spectrum of hydrologic systems, from surficial<br />alluvial aquifers to deep confined fractured bedrock<br />aquifers.</p>
+N1  - <p>Insights in karst can be applied elsewhere</p>
+<p>&nbsp;</p>
+<p>Heterogeneities in subsurface flow and<br />hydrogeologic processes that generate flow<br />networks are central to conceptual frameworks in<br />modern hydrology, and are exemplified by karst<br />systems. Insights gained through the approaches<br />used to study karst aquifers can be applied to a wide<br />spectrum of hydrologic systems, from surficial<br />alluvial aquifers to deep confined fractured bedrock<br />aquifers.</p>
+N1  - <p>On the lack of research in karst</p>
+<p>Given these facts, it is noteworthy that karst<br />processes have historically received less attention in<br />North America than in Europe or Asia (Florea et al.,<br />2007).</p>
+<p>For example, a search of the ISI<br />Web of Knowledge shows 208 articles published in<br />Journal of Hydrology since 1990 with the topic of<br />“karst,” whereas only 48 were published in Water<br />Resources Research during that same time period.<br />These numbers are 3.16% and 0.64%, respectively,<br />of all papers published in these journals since 1990,<br />suggesting nearly a 5-fold difference.</p>
+N1  - <p>On the lack of research in karst</p>
+<p>Given these facts, it is noteworthy that karst<br />processes have historically received less attention in<br />North America than in Europe or Asia (Florea et al.,<br />2007).</p>
+<p>For example, a search of the ISI<br />Web of Knowledge shows 208 articles published in<br />Journal of Hydrology since 1990 with the topic of<br />“karst,” whereas only 48 were published in Water<br />Resources Research during that same time period.<br />These numbers are 3.16% and 0.64%, respectively,<br />of all papers published in these journals since 1990,<br />suggesting nearly a 5-fold difference.</p>
+N1  - <p>Solving the remaining conundrums that karst<br />presents requires addressing many of the open<br />questions in the field of hydrology at large. Given<br />the great importance of karst aquifers as water<br />resources, the American community of hydrologic<br />scientists can no longer afford to largely ignore<br />these complex hydrologic systems. Clearly, the<br />future of hydrologic science will benefit from<br />additional research in karst.</p>
+N1  - <p>Solving the remaining conundrums that karst<br />presents requires addressing many of the open<br />questions in the field of hydrology at large. Given<br />the great importance of karst aquifers as water<br />resources, the American community of hydrologic<br />scientists can no longer afford to largely ignore<br />these complex hydrologic systems. Clearly, the<br />future of hydrologic science will benefit from<br />additional research in karst.</p>
+N1  - <p>Water withdrawels from karst, importance</p>
+<p>Nearly one quarter (23%) of all fresh<br />groundwater withdrawn from principal aquifers in<br />the U.S. was from bedrock aquifers in the year<br />2000, and of this amount, slightly more than half<br />(52%) was from carbonate and mixed sandstone and<br />carbonate rocks; if basaltic rock aquifers are<br />included in this latter percentage, it increases to<br />83% (Maupin and Barber, 2005). Thus, karst and<br />volcanic pseudokarst aquifers are the most<br />productive bedrock aquifers in the United States<br />(Table 1). Withdrawals from the Floridan aquifer<br />alone accounted for 26% of total bedrock aquifer<br />withdrawals, and more groundwater is withdrawn<br />from the Floridan aquifer than from all other U.S.<br />carbonate aquifers combined.</p>
+N1  - <p>Water withdrawels from karst, importance</p>
+<p>Nearly one quarter (23%) of all fresh<br />groundwater withdrawn from principal aquifers in<br />the U.S. was from bedrock aquifers in the year<br />2000, and of this amount, slightly more than half<br />(52%) was from carbonate and mixed sandstone and<br />carbonate rocks; if basaltic rock aquifers are<br />included in this latter percentage, it increases to<br />83% (Maupin and Barber, 2005). Thus, karst and<br />volcanic pseudokarst aquifers are the most<br />productive bedrock aquifers in the United States<br />(Table 1). Withdrawals from the Floridan aquifer<br />alone accounted for 26% of total bedrock aquifer<br />withdrawals, and more groundwater is withdrawn<br />from the Floridan aquifer than from all other U.S.<br />carbonate aquifers combined.</p>
+KW  - future directions
+KW  - hydrologic reserach
+KW  - hydrology
+KW  - karst
+KW  - karst research
+ER  - 
+
+TY  - JOUR
+TI  - Groundwater Cycling Between a Submarine Spring and an Inland Fresh Water Spring
+AU  - Davis, Hal
+AU  - Verdi, Richard
+T2  - Goundwater
+AB  - Spring Creek Springs and Wakulla Springs are large first magnitude springs that derive water from the Upper Floridan Aquifer.
+The submarine Spring Creek Springs are located in a marine estuary and Wakulla Springs are located 18 km inland. Wakulla Springs
+has had a consistent increase in flow from the 1930s to the present. This increase is probably due to the rising sea level, which
+puts additional pressure head on the submarine Spring Creek Springs, reducing its fresh water flow and increasing flows in Wakulla
+Springs. To improve understanding of the complex relations between these springs, flow and salinity data were collected from June
+25, 2007 to June 30, 2010. The flow in Spring Creek Springs was most sensitive to rainfall and salt water intrusion, and the flow
+in Wakulla Springs was most sensitive to rainfall and the flow in Spring Creek Springs. Flows from the springs were found to be
+connected, and composed of three repeating phases in a karst spring flow cycle: Phase 1 occurred during low rainfall periods and
+was characterized by salt water backflow into the Spring Creek Springs caves. The higher density salt water blocked fresh water
+flow and resulted in a higher equivalent fresh water head in Spring Creek Springs than in Wakulla Springs. The blocked fresh water
+was diverted to Wakulla Springs, approximately doubling its flow. Phase 2 occurred when heavy rainfall resulted in temporarily high
+creek flows to nearby sinkholes that purged the salt water from the Spring Creek Springs caves. Phase 3 occurred after streams
+returned to base flow. The Spring Creek Springs caves retained a lower equivalent fresh water head than Wakulla Springs, causing
+them to flow large amounts of fresh water while Wakulla Springs flow was reduced by about half.
+DA  - 2013///
+PY  - 2013
+DO  - 10.1111/gwat.12125
+VL  - 52
+IS  - 5
+SP  - 705
+EP  - 716
+UR  - http://onlinelibrary.wiley.com/doi/10.1111/gwat.12125/abstract
+ER  - 
+
+TY  - MAP
+TI  - Terraces and shorelines of Florida
+AU  - Healy, H.G.
+T2  - Florida Bureau of Geology Map Series
+CY  - Tallahassee, FL
+DA  - 1975///
+PY  - 1975
+ET  - 71
+PB  - Florida Geological Survey
+UR  - http://ufdc.ufl.edu/UF90000326/00001
+Y2  - 2015/05/10/
+ER  - 
+
+TY  - MAP
+TI  - Tallahassee Sheet
+AU  - Schmidt, W.
+T2  - Environmental Geology Series
+C1  - 1:250,000
+CY  - Tallahassee, FL
+DA  - 1979///
+PY  - 1979
+PB  - Florida Geological Survey
+UR  - http://ufdc.ufl.edu/UF90000342/00001
+L4  - http://ufdc.ufl.edu/UF90000342/00001
+ER  - 
+
+TY  - MAP
+TI  - Generalized Prime Recharge for Aquifers of Primary Use: Tallahassee Sheet
+AU  - Campbell, K.M.
+AU  - Lloyd, J.M.
+AU  - Scott, T.M.
+T2  - Open File Map Series
+CY  - Tallahassee, Fl
+DA  - 1993///
+PY  - 1993
+ET  - 70
+PB  - Florida Geological Survey
+ER  - 
+
+
+TY  - RPRT
+TI  - Open File Map Series 30: Geologic Map of Wakulla County, Florida
+AU  - Rupert, Frank
+C1  - 1:126,720
+CY  - Tallahassee, Fl
+DA  - 1993///
+PY  - 1993
+PB  - Florida Geological Survey
+ID  - rupert93
+
+TY  - MAP
+TI  - 2010 TIGER/Line Shapefiles [machine-readable data files]
+AU  - US Census Bureau
+DA  - 2014/09/16/
+PY  - 2014
+PB  - US Census Bureau
+Y2  - 2014/09/16/
+ER  - 
+
+TY  - SLIDE
+TI  - The Interconnectedness Between Spring Creek Springs and Wakulla Spring and the Effects on Flow at Wakulla Spring
+A2  - Davis, Hal
+DA  - 2011///
+PY  - 2011
+UR  - http://www.floridasprings.org/downloads/florida_113_qg5bjxw6.pdf
+ER  - 
+
+TY  - RPRT
+TI  - Stratigraphic and Paleontologic Studies of Wells in Florida - No. 4, City of Tallahassee Water Well no. 6, Dale Mabry Field Water Well “B”,  Ravlin-Brown V.G. Phillips No. 1 Well
+AU  - Cole, W.S.
+CY  - Talllahassee, Fl
+DA  - 1945///
+PY  - 1945
+SP  - 160
+M3  - Bulletin
+PB  - Florida Geological Survey
+SN  - 28
+UR  - http://ufdc.ufl.edu/UF00000456/00001
+Y2  - 2015/06/26/
+L4  - http://ufdc.ufl.edu/UF00000456/00001
+ER  - 
+
+TY  - RPRT
+TI  - Geology and Ground-Water Resourceds of Lean County, Florida
+AU  - Hendry, Jr., C.W.
+AU  - Sproul, C.R.
+CY  - Tallahassee, Fl
+DA  - 1966///
+PY  - 1966
+SP  - 178
+M3  - Bulletin
+PB  - Florida Geological Survey
+SN  - 47
+UR  - http://ufdc.ufl.edu/UF00000249/00001
+L4  - http://ufdc.ufl.edu/UF00000249/00001
+ER  - 
+
+TY  - RPRT
+TI  - Environmental Geology and Hydrology
+AU  - Bureau of Geology
+CY  - Tallahassee, Fl
+DA  - 1972///
+PY  - 1972
+SP  - 61
+M3  - Special Publication
+PB  - Florida Geological Survey
+SN  - 16
+UR  - http://ufdc.ufl.edu/AA00013469/00001
+L4  - http://ufdc.ufl.edu/AA00013469/00001
+ER  - 
+
+TY  - RPRT
+TI  - Karst in Florida
+AU  - Lane, Ed
+CY  - Tallahassee, Fl
+DA  - 1986///
+PY  - 1986
+SP  - 100
+M3  - Special Publication
+PB  - Florida Geological Survey
+SN  - 29
+ER  - 
+
+TY  - RPRT
+TI  - Leon Sinks Special Interest Area
+AU  - Lane, Ed
+CY  - Tallahassee, Fl
+DA  - 1988///
+PY  - 1988
+SP  - 5
+M3  - Open File Report
+PB  - Florida Geological Survey
+SN  - 20
+UR  - http://ufdc.ufl.edu/UF00001019/00001
+L4  - http://ufdc.ufl.edu/UF00001019/00001
+ER  - 
+
+
+TY  - RPRT
+ID  - rupertspencer88
+TI  - Bulletin 60: Geology of Wakulla County, Florida
+AU  - Rupert, Frank
+AU  - Spencer, Steve
+CY  - Tallahassee, Fl
+DA  - 1988///
+PY  - 1988
+PB  - Florida Geological Survey
+KW  - FGS
+KW  - geology
+KW  - Wakulla County
+ER  - 
+
+TY  - RPRT
+TI  - Open File Report 22: The geology of Wakulla Springs
+AU  - Rupert, Frank
+CY  - Tallahassee, Fl
+DA  - 1988///
+PY  - 1988
+SP  - 18
+M3  - Open File Report
+PB  - Florida Geological Survey
+SN  - 22
+UR  - http://ufdc.ufl.edu/UF00001021/00001
+ID  - rupert88
+ER  - 
+
+TY  - RPRT
+TI  - The Wakulla Springs Woodville Karst Plain Symposium Transactions, October 9, 1998
+AU  - Schmidt, W.
+AU  - Lloyd, J.M.
+AU  - Collier, C.
+CY  - Tallahassee, FL
+DA  - 1988///
+PY  - 1988
+SP  - 179
+M3  - Special Publication
+PB  - Florida Geological Survey
+SN  - 46
+KW  - FGS
+KW  - Wakulla
+KW  - WKP
+ER  - 
+
+TY  - RPRT
+TI  - Lithology and Palynology of Cave Floor Sediment Cores from Wakulla Spring, Wakulla County, Florida
+AU  - Rupert, Frank
+CY  - Tallahassee, Fl
+DA  - 1991///
+PY  - 1991
+SP  - 9
+M3  - Open File Report
+PB  - Florida Geological Survey
+SN  - 47
+UR  - http://ufdc.ufl.edu/UF00001046/00001
+Y2  - 2015/06/26/
+L4  - http://ufdc.ufl.edu/UF00001046/00001
+ER  - 
+
+TY  - RPRT
+TI  - The Spring Creek submarine springs group, Wakulla county, Florida
+AU  - Lane, Ed
+AB  - Submarine springs are offshore discharges of groundwater. In Florida they are associated with coastal
+karst areas. Submarine karst springs and sinkholes on the Florida Platform constitute integral parts of
+Florida's hydrogeological regime. They are some of the ultimate down-gradient discharge points for fresh
+water from Florida's aquifers. Knowledge of their location, hydrology, and stratigraphy will add to an understanding
+of the overall structure and extent of Florida's aquifer systems. Conceivably, they may represent
+supplementary sources for fresh water supplies. In addition, they are micro-environments for fish nurseries;
+manatees use some of them; and some are known archaeological sites. They are key elements in
+the linked Earth systems among Florida's environments and ecosystems: the uplands, the coasts, and the
+continental shelf marine realms.
+
+The Florida Geological Survey is gathering information on these karst features as part of ongoing Florida
+coastal research programs. This report documents the results of the first investigation, on the Spring Creek
+Springs Group, Wakulla County, Florida.
+
+The Spring Creek Springs Group is comprised of at least 13 submarine springs situated in the mouth of
+Spring Creek and adjacent Stuart Cove, along the Gulf of Mexico coastline in Wakulla County, Florida.
+Combined flow of the group is about 2,000 cubic feet per second. The springs are fed by conduits, likely
+developed along fractures in the underlying carbonates. Analysis of local fracture trends suggests that
+one surface water source for the spring flow is Lost Creek, a stream captured by a sinkhole about six miles
+northwest of the springs. Regional groundwater of the Floridan aquifer system also supplies a portion of
+the total spring flow. Seismic surveys and depth-recorder profiles were conducted across 12 of the
+springs. The springs’ cross-sectional profiles show them to be cone-shaped sinks, typical of springs developed
+in Florida karst. Water chemisty data collected at nine of the springs showed variation suggestive
+of mixing and possibly differing surface and ground-water sources for the springs. All the springs exhibit
+pulsating flow, alternating surges of boiling surface turbulence caused by rapidly upwelling water, followed
+by relatively quiescent flow. This suggests that the complex conduit system supplying the springs may be
+influenced by local recharge events and by tidal stage.
+CY  - Tallahassee, Fl
+DA  - 2001///
+PY  - 2001
+SP  - 36
+M3  - Special Publication
+PB  - Florida Geological Survey
+SN  - 47
+N1  - <p>All the springs exhibit pulsating flow, alternating surges of boiling surface turbulence caused by rapidly upwelling water, followed<br />by relatively quiescent flow. This suggests that the complex conduit system supplying the springs may be influenced by local recharge events and by tidal stage.</p>
+N1  - <p>All the springs exhibit pulsating flow, alternating surges of boiling surface turbulence caused by rapidly upwelling water, followed<br />by relatively quiescent flow. This suggests that the complex conduit system supplying the springs may be influenced by local recharge events and by tidal stage.</p>
+KW  - FGS
+KW  - special publication
+KW  - spring creek
+KW  - submarine springs
+ER  - 
+
+TY  - RPRT
+TI  - Florida Spring Classification System and Spring Glossary
+AU  - Copeland, R.E.
+AB  - The publication is a result of the Florida Springs Initiative. It introduces a spring
+classification system and glossary for use by the citizens of the state of Florida.
+Hopefully, the classification system, as well as the glossary, will assist Floridians in
+improving their overall understanding of the springs of the state and increase the
+consistency in the usage of commonly used terms associated with our springs. The
+information will be useful for the citizens, including the academic, scientific, and
+engineering communities of the state.
+CY  - Tallahassee, FL
+DA  - 2003///
+PY  - 2003
+SP  - 17
+M3  - Special Publication
+PB  - Florida Geological Survey
+SN  - 52
+UR  - http://www.dep.state.fl.us/geology/geologictopics/springs/sp_52.pdf
+Y2  - 2015/07/02/
+L1  - http://www.dep.state.fl.us/geology/geologictopics/springs/sp_52.pdf
+ER  - 
+
+TY  - RPRT
+TI  - Wakulla Springs Scientific Symposium, May 13, 2004
+AU  - Florida Geological Survey
+CY  - Tallahassee, Fl
+DA  - 2004///
+PY  - 2004
+M3  - Special Publication
+PB  - Florida Geological Survey
+SN  - 56
+UR  - http://publicfiles.dep.state.fl.us/FGS/FGS_Publications/SP/SP56WakullaSciSymp2004/
+Y2  - 2015/06/26/
+L4  - http://publicfiles.dep.state.fl.us/FGS/FGS_Publications/SP/SP56WakullaSciSymp2004/
+ER  - 
+
+TY  - RPRT
+TI  - Springs of Florida
+AU  - Scott, T.M.
+AU  - Means, Guy H.
+AU  - Meegan, Rebecca P.
+AU  - Means, Ryan C.
+AU  - Upchurch, Sam B.
+AU  - Copeland, R.E.
+AU  - Jones, James
+AU  - Roberts, Tina
+AU  - Willet, Alan
+T2  - Bulletin
+CY  - Tallahassee, Fl
+DA  - 2004///
+PY  - 2004
+SP  - 377
+PB  - Florida Geological Survey
+SN  - 66
+KW  - Bulletin
+KW  - FGS
+KW  - Springs
+KW  - WKP
+ER  - 
+
+TY  - RPRT
+TI  - 4th Annual Hydrogeology Consortium Workshop: Solving Water Pollution Problems in the Wakulla Springshed of North Florida, May 11-13, 2005
+AU  - Florida Geological Survey
+CY  - Tallahassee, Fl
+DA  - 2005///
+PY  - 2005
+M3  - Special Publication
+PB  - Florida Geological Survey
+SN  - 58
+UR  - http://publicfiles.dep.state.fl.us/FGS/FGS_Publications/SP/SP58-HydogeoWorkshop2005/index.htm
+L4  - http://publicfiles.dep.state.fl.us/FGS/FGS_Publications/SP/SP58-HydogeoWorkshop2005/index.htm
+ER  - 
+
+TY  - RPRT
+TI  - Estimated withdrawals from principal aquifers in the United States, 2000
+AU  - Maupin, Molly A.
+AU  - Barber, Nancy L.
+AB  - Fresh ground-water withdrawals from 66 principal aquifers in the United States were estimated for irrigation, public-supply, and self-supplied industrial water uses for the year 2000. Total ground-water withdrawals were 76,500 million gallons per day, or 85,800 thousand acre-feet per year for these three uses. Irrigation used the largest amount of ground water, 56,900 million gallons per day, followed by public supply with 16,000 million gallons per day, and self-supplied industrial with 3,570 million gallons per day. These three water uses represented 92 percent of the fresh ground-water withdrawals for all uses in the United States, the remaining 8 percent included self-supplied domestic, aquaculture, livestock, mining, and thermoelectric power uses.
+Aquifer withdrawals were categorized by five
+lithologic groups: unconsolidated and semiconsolidated sand and gravel aquifers, carbonate-rock aquifers, igneous and metamorphic-rock aquifers, sandstone aquifers, and sandstone and carbonate-rock aquifers. Withdrawals from aquifers that were not included in one of the 66 principal aquifers were reported in an “Other” aquifers group. The largest withdrawals in the United States were from unconsolidated and semiconsolidated sand and gravel aquifers, which accounted for 80 percent of total withdrawals from all aquifers. Carbonate-rock aquifers provided 8 percent of the withdrawals, and igneous and metamorphic-rock aquifers, 6 percent. Withdrawals from sandstone aquifers, from sandstone and carbonate-rock aquifers, and from the “Other” aquifers category each constituted about 2 percent of the total withdrawals reported.
+Fifty-five percent of the total withdrawals for irrigation, public-supply, and self-supplied industrial water uses were provided by the High Plains aquifer, California Central Valley aquifer system, the Mississippi River Valley alluvial aquifer, and the Basin and Range basin-fill aquifers. These aquifers provided most of the withdrawals for irrigation. The High Plains aquifer was the most intensively used aquifer in the United States. This aquifer provided 23 percent of the total withdrawals from all aquifers for irrigation, public-supply, and self-supplied industrial water uses combined, and 30 percent of the total withdrawals from all aquifers for irrigation.
+The primary aquifers used for public supply were the glacial sand and gravel aquifers of the Northeastern and North-Central States, the California Coastal Basin aquifers, the Floridan aquifer system, the Basin and Range basin-fill aquifers, and the Coastal lowlands aquifer system along the Gulf Coast. These five aquifers provided 43 percent of the total withdrawals from all aquifers for public supply. The glacial sand and gravel aquifers, Coastal lowlands aquifer system,
+Floridan aquifer system, and Cambrian-Ordovician aquifer system were the primary sources of water for self-supplied industrial use; these aquifers provided 46 percent of the total ground-water withdrawals for that use
+CY  - Reston, VA
+DA  - 2005///
+PY  - 2005
+SP  - 46
+M3  - USGS Circular
+PB  - U.S. Geological Survey
+SN  - 1279
+UR  - http://pubs.usgs.gov/circ/2005/1279/pdf/circ1279.pdf
+ER  - 
+
+TY  - RPRT
+TI  - Demonstrating interconnection between a wastewater application facility and a first magnitude spring in a karstic watershed : Tracer study of the Southeast Farm Wastewater Reuse Facility, Tallahassee, Florida
+AU  - Kincaid, T.R.
+AU  - Davies, G.J.
+AU  - Werner, C.
+AU  - DeHan, R.S.
+CY  - Tallahassee, Fl
+DA  - 2012///
+PY  - 2012
+SP  - 192
+M3  - Report of Investigations
+PB  - Florida Geological Survey
+SN  - 111
+UR  - http://ufdc.ufl.edu/AA00016894/00001
+L4  - http://ufdc.ufl.edu/AA00016894/00001
+ER  - 
+
+TY  - RPRT
+TI  - Karst in the United States: A digital map compilation and database
+AU  - Weary, David J.
+AU  - Doctor, Daniel H.
+T2  - Open-File Report
+AB  - This report describes new digital maps delineating areas of the United States, including Puerto Rico and the U.S. Virgin Islands, having karst or the potential for development of karst and pseudokarst. These maps show areas underlain by soluble rocks and also by volcanic rocks, sedimentary deposits, and permafrost that have potential for karst or pseudokarst development. All 50 States contain rocks with potential for karst development, and about 18 percent of their area is underlain by soluble rocks having karst or the potential for development of karst features. The areas of soluble rocks shown are based primarily on selection from State geologic maps of rock units containing significant amounts of carbonate or evaporite minerals. Areas underlain by soluble rocks are further classified by general climate setting, degree of induration, and degree of exposure. Areas having potential for volcanic pseudokarst are those underlain chiefly by basaltic-flow rocks no older than Miocene in age. Areas with potential for pseudokarst features in sedimentary rocks are in relatively unconsolidated rocks from which pseudokarst features, such as piping caves, have been reported. Areas having potential for development of thermokarst features, mapped exclusively in Alaska, contain permafrost in relatively thick surficial deposits containing ground ice. This report includes a GIS database with links from the map unit polygons to online geologic unit descriptions.
+CY  - Reston, VA
+DA  - 2014///
+PY  - 2014
+SP  - 23
+PB  - U.S. Geological Survey
+SN  - 2014-1156
+ER  - 
+
+TY  - RPRT
+TI  - Wakulla Spring Restoration Plan
+CY  - Tallahassee, Fl
+DA  - 2014/08//
+PY  - 2014
+SP  - 146
+PB  - The Howard T. Odum Florida Springs Institute
+ER  - 
+
+TY  - THES
+TI  - Preferential Flow Paths in Soluble Porous Media and conduit System Development in Carbonates of the Woodville Karst Plain, Florida
+AU  - Werner, Christopher L.
+CY  - Tallahassee, Fl
+DA  - 2001///
+PY  - 2001
+SP  - 180
+M3  - Masters Thesis
+PB  - Florida State University
+ER  - 
+

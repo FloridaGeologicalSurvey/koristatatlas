@@ -1,0 +1,32 @@
+---
+title: 'Florida Geological Survey: WKP Statistical Atlas'
+author: "Seth Bassett, GISP"
+date: "September 20, 2015"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    theme: cerulean
+    number_sections: true
+---
+
+# Introduction
+
+This project chronicles the analysis of the Florida Geological Survey's Woodville Karst Plain instrumentation project. All coding and documents were created as part of the Karst Open Research Iniative (KORI).
+
+# Conduit Analysis  
+  
+* Conduit Analysis
+    + [B Conduit](conduit_analysis/b_conduit.html)  
+    + [C Conduit](conduit_analysis/c_conduit.html)
+    + [D Conduit](conduit_analysis/d_conduit.html)
+
+# Cross-conduit Analysis  
+  
+# Interactive Visualizations
+All interactive visualizations are experimental.  
+  
+* Dygraphs
+    + [Falmouth Conductivity](interactive/dygraphs/falmouth_cond/index.html)  
+
+Contact: Seth [adot] Bassett [at_symbol] dep [adot] state [adot] fl [adot] us
