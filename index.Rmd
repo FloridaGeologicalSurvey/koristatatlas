@@ -28,7 +28,7 @@ All interactive visualizations are experimental.
 * Dygraphs
     + [Falmouth Conductivity](interactive/dygraphs/falmouth_cond/index.html)  
 * threejs
-    + [Wakulla Structured Contours, Limestone Units](interactive/threejs/structured_contours/Wak_struct_Cont.html)
+    + [Wakulla Structured Contours, Limestone Units](interactive/threejs/structured_contours/index.html)
 
 
 Contact: Seth [adot] Bassett [at_symbol] dep [adot] state [adot] fl [adot] us
