@@ -1,0 +1,104 @@
+---
+title: "FGS 2D-ACM Temperature dygraphs"
+author: "Seth W. Bassett, GISP"
+date: "September 22, 2015"
+output:
+  html_document:
+      theme: cosmo
+---
+
+Florida Geological Survey's Falmouth 2D-ACM interactive conduit meter data. These applets use the daily average values for their respective parameters.
+
+```{r global_options, include=FALSE}
+#knitr global options
+knitr::opts_chunk$set(fig.width=8, fig.height=6,
+                      echo=FALSE, warning=FALSE, message=FALSE)
+```
+```{r get_data}
+library(RPostgreSQL)
+library(pander)
+library(knitr)
+library(xts)
+library(dygraphs)
+library(rkori)
+library(RColorBrewer)
+
+panderOptions("table.split.table", Inf)
+
+
+db_connection <- dbConnect(PostgreSQL(), db='wkp_hrdb_dev', host='fgs-usrv', user='wkp_user', password='wkp_user')
+sql <- "SELECT * FROM rfalmouth_daily WHERE site_name != \'Vent (Deep)\' AND var=\'temp\';"
+fal <- dbGetQuery(db_connection, sql)
+
+ords <- c( "AD (Deep)",
+           "D (Deep)",
+           "B (Deep)",
+           "C (Deep)",
+           "AK (Deep)",
+           "K (Deep)",
+           "Revell Sink (Deep)",
+           "Spring Creek 1 (Deep)",
+           "Spring Creek 10 (Deep)"
+           )
+           
+fal$site_name <- factor(fal$site_name, levels=ords, labels=ords)
+
+```
+```{r dy_tempnorth}
+fal.temp <- transmutefalmouth(fal, "temp")
+temp.xts <- xts(fal.temp[,-1], order.by=fal.temp[,1])
+names(temp.xts) <- c("AD",
+                     "D",
+                     "B",
+                     "C",
+                     "AK",
+                     "K",
+                     "REV",
+                     "SC1",
+                     "SC10")
+
+dygraph(temp.xts[,c(-7,-8,-9)], main="2D-ACM Temperature (C), Northern Group", group="a") %>% 
+    #dySeries("SC1", axis='y2') %>% 
+    #dySeries("SC10", axis='y2') %>% 
+    #dySeries("REV",axis='y2') %>%
+    dyOptions(colors = brewer.pal(6,"Paired"),
+              strokeWidth=1.5, 
+              drawGrid=F, 
+              animatedZooms=F,
+              drawPoints = T,
+              pointSize=3
+              )  %>%
+    dyRangeSelector() %>% 
+    dyRoller(rollPeriod=1) %>% 
+    dyHighlight(highlightCircleSize = 5, highlightSeriesBackgroundAlpha = 0.5) %>%
+    dyLegend(width = 80, labelsSeparateLines = TRUE, show = 'onmouseover', showZeroValues=T, hideOnMouseOut=T) %>%
+    dyEvent(date = "2012-6-26", label="TS Debby", labelLoc="top", strokePattern="dashed") %>%
+    dyEvent(date = "2011-5-10", label="Begin 2011 Drought",labelLoc="top", strokePattern="dotted") %>%
+    dyEvent(date = "2012-3-23", strokePattern="dashed") %>%
+    dyEvent(date = "2012-4-4",  strokePattern="dotted") %>%
+    dyEvent(date = "2012-4-24", strokePattern="dashed") %>%
+    dyEvent(date = "2012-5-1",  strokePattern="dotted")
+```
+```{r dy_tempsouth}
+dygraph(temp.xts[,c(7,8,9)], main="2D-ACM Temperature (C), Southern Group", group="a") %>% 
+    #dySeries("SC1", axis='y2') %>% 
+    #dySeries("SC10", axis='y2') %>% 
+    #dySeries("REV",axis='y2') %>%
+    dyOptions(colors = brewer.pal(6,"Dark2"),
+              strokeWidth=1.5, 
+              drawGrid=F, 
+              animatedZooms=F,
+              drawPoints = T,
+              pointSize=3
+              )  %>%
+    dyRangeSelector() %>% 
+    dyRoller(rollPeriod=1) %>% 
+    dyHighlight(highlightCircleSize = 5, highlightSeriesBackgroundAlpha = 0.5) %>%
+    dyLegend(width = 80, labelsSeparateLines = TRUE, show = 'onmouseover', showZeroValues=T, hideOnMouseOut=T) %>%
+    dyEvent(date = "2012-6-26", label="TS Debby", labelLoc="top", strokePattern="dashed") %>%
+    dyEvent(date = "2011-5-10", label="Begin 2011 Drought",labelLoc="top", strokePattern="dotted") %>%
+    dyEvent(date = "2012-3-23", strokePattern="dashed") %>%
+    dyEvent(date = "2012-4-4",  strokePattern="dotted") %>%
+    dyEvent(date = "2012-4-24", strokePattern="dashed") %>%
+    dyEvent(date = "2012-5-1",  strokePattern="dotted")
+```

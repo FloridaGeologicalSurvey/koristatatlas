@@ -26,7 +26,11 @@ This project chronicles the analysis of the Florida Geological Survey's Woodvill
 All interactive visualizations are experimental.  
   
 * Dygraphs
-    + [Falmouth Conductivity](interactive/dygraphs/falmouth_cond/index.html)  
+    + [Falmouth 2D-ACM ASPD](interactive/dygraphs/aspd/index.html)  
+    + [Falmouth 2D-ACM COND](interactive/dygraphs/cond/index.html)  
+    + [Falmouth 2D-ACM AVDIR](interactive/dygraphs/avdir/index.html)  
+    + [Falmouth 2D-ACM TEMP](interactive/dygraphs/temp/index.html)  
+    + [Falmouth 2D-ACM PRES](interactive/dygraphs/pres/index.html)  
 * threejs
     + [Wakulla Structured Contours, Limestone Units](interactive/threejs/structured_contours/index.html)
 
